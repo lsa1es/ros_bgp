@@ -10,7 +10,7 @@ Place scripts in zabbix external scripts folder.
 # Files
 
 * ZbxBGPMK.py 
-  * lld "user" "pass" "ip do mk"
+  * lld (user) (pass) (ip do mk)
   * uptime "user" "pass" "ip do mk" "ip do bgp peer(pegar no lld)"
   * rotas "user" "pass"  "ip do mk" "ip do bgp peer(pegar no lld)"
   * state "user" "pass"  "ip do mk" "ip do bgp peer(pegar no lld)"
