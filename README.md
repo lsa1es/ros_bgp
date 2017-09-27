@@ -3,7 +3,9 @@
 One scripts and template for monitoring bgp sessions in zabbix. 
 
 Import template to your zabbix instalation.
-* 
+
+* [TPE]Mikrotik_BGP.xml 
+
 Place scripts in zabbix external scripts folder.
 
 
