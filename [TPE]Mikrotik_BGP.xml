@@ -25,7 +25,7 @@
                     <type>10</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>ZbxMkv2.py[&quot;lld&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;]</key>
+                    <key>ZbxBGPMK.py[&quot;lld&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;]</key>
                     <delay>3600</delay>
                     <status>0</status>
                     <allowed_hosts/>
@@ -59,7 +59,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxMkv2.py[&quot;rotas&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;rotas&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
@@ -103,7 +103,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxMkv2.py[&quot;state&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;state&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
@@ -147,7 +147,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxMkv2.py[&quot;uptime&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;uptime&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
