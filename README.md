@@ -4,7 +4,7 @@ One scripts and template for monitoring bgp sessions in zabbix.
 
 Import template to your zabbix instalation.
 
-* [TPE]Mikrotik_BGP.xml 
+* [TPE]Mikrotik_BGP.xml - ZbxBGPMK.py
 
 Place scripts in zabbix external scripts folder.
 
