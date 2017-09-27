@@ -1,9 +1,9 @@
 # Description
 
-Two scripts and template for monitoring bgp sessions in zabbix. 
+One scripts and template for monitoring bgp sessions in zabbix. 
 
 Import template to your zabbix instalation.
-
+* 
 Place scripts in zabbix external scripts folder.
 
 
