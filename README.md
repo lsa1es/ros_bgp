@@ -10,10 +10,10 @@ Place scripts in zabbix external scripts folder.
 # Files
 
 * ZbxBGPMK.py 
-  * lld (user) (pass) (ip do mk)
-  * uptime "user" "pass" "ip do mk" "ip do bgp peer(pegar no lld)"
-  * rotas "user" "pass"  "ip do mk" "ip do bgp peer(pegar no lld)"
-  * state "user" "pass"  "ip do mk" "ip do bgp peer(pegar no lld)"
+  * lld (user) (pass) (ip of RounterOS)
+  * uptime (user) (pass) (ip of RouterOS) (ip of bgp peer, get ldd)
+  * rotas (user) (pass) (ip of RouterOS) (ip of bgp peer, get ldd)
+  * state (user) (pass) (ip of RouterOS) (ip of bgp peer, get ldd)
 
 * bgpdiscovery.py - used for returning peers list to zabbix
 * bgpmon.py - get bgp session state and return 0 or 1.
