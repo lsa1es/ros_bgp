@@ -59,7 +59,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxBGPMK.py[&quot;rotas&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;rotas&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
@@ -103,7 +103,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxBGPMK.py[&quot;state&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;state&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
@@ -147,7 +147,7 @@
                             <snmp_community/>
                             <multiplier>0</multiplier>
                             <snmp_oid/>
-                            <key>ZbxBGPMK.py[&quot;uptime&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}&quot;]</key>
+                            <key>ZbxBGPMK.py[&quot;uptime&quot;,&quot;{$MK_USER}&quot;,&quot;{$MK_PASS}&quot;,&quot;{HOST.CONN}&quot;,{#BGPPEER}]</key>
                             <delay>300</delay>
                             <history>8</history>
                             <trends>0</trends>
